@@ -1,5 +1,5 @@
 # Excel-Portofolio
-Hi, I'm Sopi, a Finance Management student interested in Financial Analysis and Data Analysis.
+Hi, I'm Sopi, a Finance Management student interested in building a career in the finance field. I'm currently developing my skills in financial analysis, financial management, and data analysis through academic projects and personal projects.
 ## 📊 Projects
 ### 1. Financial Statement Analysis PT Aneka Tambang Tbk 
 Analysis of financial statements and financial ratios for 2023–2025.
@@ -20,5 +20,14 @@ Tools:
 - Microsoft Excel
 - Budget vs Actual Analysis
 - Variance Analysis
+- Dashboard
+- Data Visualization
+### 4. Accounts Receivable Aging Analysis
+Analysis of accounts receivable aging to identify overdue invoices, customer payment status, and outstanding receivables.
+Tools:
+- Microsoft Excel
+- Accounts Receivable Aging Analysis
+- Pivot Table
+- Data Analysis
 - Dashboard
 - Data Visualization
